@@ -1,4 +1,4 @@
-# dos
+# Boss
 
 gcc -o azak ados.c
 
