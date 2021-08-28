@@ -1,4 +1,4 @@
-# Boss
+# Boss A POWERFUL DDOS TOOL
 
 gcc -o azak ados.c
 
