@@ -1,7 +1,7 @@
-# Boss A POWERFUL DDOS TOOL
+# Boss A POWERFUL DOS TOOL USE IT ONLY FOR EDUCATION PURPOSE !!!
 
-gcc -o azak ados.c
+- gcc -o azak ados.c
 
-LINUX/UNIX/MAC
+- LINUX/UNIX/MAC
 
-./azak IP PORT
+- ./azak IP PORT
