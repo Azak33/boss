@@ -1,6 +1,6 @@
 # This Is A POWERFUL DOS TOOL USE IT ONLY FOR EDUCATION PURPOSE !!!
 
-- git clone https://github.com/Azak33/boss
+- git clone https://github.com/PaNdAxAk/Web-Jammer
 
 - gcc -o azak ados.c
 
